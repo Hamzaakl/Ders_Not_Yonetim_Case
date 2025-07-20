@@ -303,13 +303,6 @@ Sistem ilk çalıştırıldığında otomatik olarak örnek kullanıcılar ve no
 
 Bu proje eğitim amaçlı geliştirilmiştir.
 
-## 📞 İletişim
-
-Proje hakkında sorularınız için:
-
-- Email: melih@tetacode.com
-- GitHub: [Repository Link]
-
 ---
 
 **Not**: Bu proje .NET 9.0 ve Next.js 14 kullanarak geliştirilmiş modern bir web uygulamasıdır. Tüm özellikler test edilmiş ve production ortamına hazır haldedir.
