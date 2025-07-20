@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\BackendApi",
+    "\\backend\\BackendApi\\Data",
+    "\\backend\\BackendApi\\Migrations",
+    "\\backend\\BackendApi\\Models",
+    "\\frontend\\src",
+    "\\frontend\\src\\app"
+  ],
+  "SelectedNode": "\\backend\\BackendApi\\Data\\AppDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}
